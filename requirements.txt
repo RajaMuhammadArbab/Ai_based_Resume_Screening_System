@@ -1,4 +1,0 @@
-pymupdf
-python-docx
-pandas
-scikit-learn
